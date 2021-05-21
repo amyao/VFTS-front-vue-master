@@ -28,3 +28,17 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Other Information
+> 1. All the apis to get the fund information need tokens or codes.
+     The tokens and codes were purchased by our team and will expire after 15 June, 2021.
+     They comes from the following two websites:
+      
+         https://www.doctorxiong.club/api/#api-Fund-fund
+         
+         https://market.aliyun.com/products/57000002/cmapi026966.html?spm=5176.11065268.1996646101.searchclickresult.48f44fdeaTua6r#sku=yuncode2096600004
+         
+ 
+    
+       
+      
