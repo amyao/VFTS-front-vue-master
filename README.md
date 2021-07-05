@@ -32,7 +32,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ## Other Information
 > 1. All the apis to get the fund information need tokens or codes.
      The tokens and codes were purchased by our team and will expire after 15 June, 2021.
-     They comes from the following two websites:
+     They come from the following two websites:
       
          https://www.doctorxiong.club/api/#api-Fund-fund
          
